@@ -1,0 +1,17 @@
+.right {float:right; margin-right: 20px;}
+
+.left {float: left; margin-left: 20px;}
+
+h1  {padding-top: 180px;}
+
+#searchbar {
+height: 2.85em;
+width: 392px;
+border-color: rgba(40, 40, 40, .15);
+border-width: 1px;
+border-radius: 50px;
+font-size: .96em;
+padding: 0px 45px;
+margin-left: 30%}
+
+h3 {margin-left: 40%;}

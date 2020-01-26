@@ -1,0 +1,2 @@
+This is my attempt at making the Google Home Page.
+The links at the top of the page all work as intended. The "search" button and "search form" dont work but the "feeling lucky" button directs you to a very informative webpage.
